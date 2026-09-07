@@ -7,4 +7,4 @@
 
 Пакетная обработка данных в Apache Spark
 
-[Открыть лабораторную работу № 1](lab_01_student.ipynb/lab_01_student.ipynb)
+[Открыть лабораторную работу № 1](lab_01_student.ipynb)
