@@ -1,0 +1,23 @@
+{
+  "student": "Салимуллина Алия Дамировна",
+  "group": "ИНДОР-221",
+  "variant": 14,
+  "config": {
+    "speed": 0.64,
+    "sensor_range": 2.0,
+    "avoid_threshold": 0.7,
+    "obstacles_count": 5,
+    "seed": 114
+  },
+  "metrics": {
+    "final_state": "GOAL",
+    "time_s": 52.7,
+    "path_length_m": 12.314,
+    "straight_line_m": 12.021,
+    "tortuosity": 1.024,
+    "fsm_transitions": 32,
+    "avoid_share": 0.75,
+    "min_clearance_m": 0.252,
+    "mean_speed_ms": 0.233
+  }
+}

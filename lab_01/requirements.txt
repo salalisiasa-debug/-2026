@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+# DiffDrive и PIDController берутся из репозитория
+# https://github.com/BosenkoTM/robotics-course (ветка 2026)
