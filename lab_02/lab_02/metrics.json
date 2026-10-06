@@ -1,0 +1,29 @@
+{
+  "student": "Салимуллина Алия",
+  "group": "ИНДОР-221",
+  "variant": 14,
+  "config": {
+    "sensor": "LiDAR",
+    "freq_hz": 20,
+    "noise_pct": 2.0,
+    "loss_pct": 5,
+    "seed": 214
+  },
+  "metrics": {
+    "messages_sent": 800,
+    "messages_received": 763,
+    "loss_pct_actual": 4.625,
+    "pdr_pct": 95.375,
+    "rate_nominal_hz": 20,
+    "rate_actual_hz": 19.075,
+    "longest_loss_burst": 2,
+    "delay_median_ms": 7.86,
+    "jitter_ms": 4.08,
+    "lidar_sensor_rmse": 0.07052,
+    "lidar_sensor_bias": -0.03707,
+    "lidar_recon_rmse": 0.10992,
+    "lidar_max_gap_s": 0.15,
+    "lidar_aoi_mean_s": 0.0225,
+    "lidar_aoi_max_s": 0.14
+  }
+}
